@@ -1,4 +1,7 @@
-
+html {
+    background: linear-gradient(#e66465, #9198e5);
+    background-attachment: fixed;
+}
 div.links {
     width: 350px;
     height: 250px;

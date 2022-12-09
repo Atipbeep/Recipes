@@ -5,8 +5,7 @@ body {
   font-size: 36px;
 }
 img {
-    display: block;
-    margin: auto;
-    width: 300px;
-    height: auto;
-  }
+  width: 350px;
+  height: 250px;
+  border: 2.5px solid black;
+}
