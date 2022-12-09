@@ -2,8 +2,11 @@ body {
   color: white;
   text-align: center;
   font-style: Helvetica;
+  font-size: 36px;
 }
 img {
-    display: block;
-    margin: auto;
-  }
+  display: block;
+  margin: auto;
+  width: 360px;
+  height: auto;
+}

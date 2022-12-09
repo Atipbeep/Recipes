@@ -2,6 +2,7 @@ body {
   color: white;
   text-align: center;
   font-style: Helvetica;
+  font-size: 36px;
 }
 
 .title {
@@ -10,8 +11,8 @@ body {
 }
 
 img {
-    display: block;
-    margin: auto;
-    width: 400px;
-    height: auto;
-  }
+  display: block;
+  margin: auto;
+  width: 360px;
+  height: auto;
+}
