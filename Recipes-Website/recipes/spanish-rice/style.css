@@ -1,0 +1,9 @@
+body {
+  color: white;
+  text-align: center;
+  font-style: Helvetica;
+}
+img {
+    display: block;
+    margin: auto;
+  }

@@ -1,0 +1,17 @@
+body {
+  color: white;
+  text-align: center;
+  font-style: Helvetica;
+}
+
+.title {
+  text-align: center;
+  font-style: Helvetica;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 400px;
+    height: auto;
+  }
