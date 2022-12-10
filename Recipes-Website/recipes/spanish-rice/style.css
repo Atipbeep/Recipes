@@ -1,3 +1,7 @@
+html {
+  background: linear-gradient(#e66465, #9198e5);
+  background-attachment: fixed;
+}
 body {
   color: white;
   text-align: center;
@@ -7,5 +11,5 @@ body {
 img {
   width: 350px;
   height: 250px;
-  border: 2.5px solid black;
+  border: 2.5px #e66465 #9198e5;
 }

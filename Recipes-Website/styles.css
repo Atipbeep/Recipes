@@ -2,17 +2,32 @@ html {
     background: linear-gradient(#e66465, #9198e5);
     background-attachment: fixed;
 }
-div.links {
-    width: 350px;
-    height: 250px;
-    border: 2.5px solid black;
-    margin: 20px auto;
+body {
+    text-align: center;
+}
+div {
+    border: 2.5px solid #e66465 #9198e5;;
+    display: inline-block;
+    margin: auto;
+    text-align: center;
 }
 
 img {
-    width: 100%;
-    height: 100%;
+    width: 350px;
+    height: 250px;
+    margin: auto;
+    
 }
+.lasagna {
+    margin: 50px;
+}
+.chickenspaghetti {
+    margin: 50px;
+}
+.spanishrice {
+    margin: 50px;
+}
+
 
 .title {
     color: white;
