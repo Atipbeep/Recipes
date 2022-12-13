@@ -1,15 +1,14 @@
-html {
+html, body  {
     background: linear-gradient(#e66465, #9198e5);
     background-attachment: fixed;
 }
-body {
-    text-align: center;
-}
+
 div {
-    border: 2.5px solid #e66465 #9198e5;;
-    display: inline-block;
-    margin: auto;
-    text-align: center;
+    display: flex;
+    flex-direction: row;
+    outline: 10px solid beige !important;
+    align-items: center;
+    justify-content: space-between
 }
 
 img {
@@ -18,16 +17,6 @@ img {
     margin: auto;
     
 }
-.lasagna {
-    margin: 50px;
-}
-.chickenspaghetti {
-    margin: 50px;
-}
-.spanishrice {
-    margin: 50px;
-}
-
 
 .title {
     color: white;

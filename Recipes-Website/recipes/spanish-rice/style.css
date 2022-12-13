@@ -1,15 +1,11 @@
-html {
+html, body {
   background: linear-gradient(#e66465, #9198e5);
   background-attachment: fixed;
-}
-body {
-  color: white;
   text-align: center;
-  font-style: Helvetica;
-  font-size: 36px;
+  font-size: 24px;
+
 }
 img {
   width: 350px;
   height: 250px;
-  border: 2.5px #e66465 #9198e5;
 }
